@@ -13,8 +13,8 @@
 	"require": {
 		"php": ">=5.4.0",
 
-		"illuminate/config": "4.1.x",
-		"illuminate/queue": "4.1.x",
+		"illuminate/config": "4.1.x|5.*",
+		"illuminate/queue": "4.1.x|5.*",
 		"chrisboulton/php-resque": "1.2.x"
 	},
 	"suggest": {
